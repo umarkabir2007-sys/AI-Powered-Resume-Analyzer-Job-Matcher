@@ -36,8 +36,7 @@ Built using **Streamlit**, **Python**, **Pandas**, **Sentence-Transformers**, an
 1. **Clone the repository**
 
 ```
-git clone https://github.com/TR-3N/-AI-Powered-Resume-Analyzer-Multi-Source-Job-Matcher.git
-cd -AI-Powered-Resume-Analyzer-Multi-Source-Job-Matcher
+git clone https://github.com/umarkabir2007-sys/AI-Powered-Resume-Analyzer-Job-Matcher.git
 ```
 
 2. **Create & activate virtual environment (recommended)**
